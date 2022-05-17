@@ -1,0 +1,19 @@
+{
+  "name": "notneeded",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbhadani001/Notneeded.git"
+  },
+  "author": "Manav Bhadani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbhadani001/Notneeded/issues"
+  },
+  "homepage": "https://github.com/mbhadani001/Notneeded#readme"
+}
